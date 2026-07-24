@@ -1,11 +1,11 @@
 /* ============================================
    CYBERHAVEN — Ananya Singh Portfolio
-   Clean Modern Dark Theme with Subtle Accents
+   Theme 1: Midnight Cyber Neon (Primary Design)
    ============================================ */
 
 /* --- CSS Variables / Design Tokens --- */
 :root {
-    /* Colors */
+    /* Colors - Midnight Cyber Neon Palette */
     --bg-primary: #0a0a0f;
     --bg-secondary: #111119;
     --bg-card: #16161f;
@@ -826,7 +826,6 @@ body {
     flex-direction: column;
     justify-content: space-between;
     transition: var(--transition-smooth);
-
 }
 
 .project-card:hover {
